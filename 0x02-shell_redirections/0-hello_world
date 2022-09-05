@@ -1,5 +1,2 @@
-i
 #!/bin/bash
-wc  -l 0-hello_world
-echo Hello, World
-
+Hello, World
